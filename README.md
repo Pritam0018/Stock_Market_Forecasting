@@ -28,4 +28,4 @@ We will find the distribution of close and open. Then we will find the correlati
 
 Stock Prices forecasted for upcoming one month for GOOGLE.
 
-![Alt text]()
+![Alt text](https://github.com/Pritam0018/Stock_Market_Forecasting/blob/main/data/plot_2.png)
