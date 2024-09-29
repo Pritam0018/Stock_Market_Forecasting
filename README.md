@@ -14,6 +14,7 @@ Technical analysis method, which concentrates on
 previous stock prices and values.
 
 ### Approach: ###
+
 We will find the distribution of close and open. Then we will find the correlation between close and open. After that, we will visualize the attributes[Open, High, Low, Close, volume] of our datasets. Then we forecast the stock prices using deep learning concepts like LSTM.
 
 ![Alt text](https://github.com/Pritam0018/Stock_Market_Forecasting/blob/main/data/LSTM.png) 
@@ -21,4 +22,10 @@ We will find the distribution of close and open. Then we will find the correlati
 -LSTMs (Long Short-Term Memory networks) are a type of RNNs and provide an advantage in learning from sequence data which makes forecasting stock prices well-suited. Temporal dependencies and patterns in historical price data. Since the prices of the stock market have patterns and changes, if we feed them to LSTM with past and technical indicators values, it can predict to trading times. The trained model can then be used to predict what future stock price depending on those learned patterns.
 
 
-![Alt text]() 
+![Alt text](https://github.com/Pritam0018/Stock_Market_Forecasting/blob/main/data/plot_1.png) 
+
+### Forecasting Part: ###
+
+Stock Prices forecasted for upcoming one month for GOOGLE.
+
+![Alt text]()
